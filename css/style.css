@@ -190,16 +190,6 @@ header .navbar-brand img {
 
 /***** b-inner ***** */
 
-.
-.p-card:hover{
-
-}
-
-
-
-
-
-
 .b-inner {
     width: 100%;
     padding: 60px 0px;
@@ -209,6 +199,14 @@ header .navbar-brand img {
 .Bf-section {
     padding: 70px 0px 0px;
 }
+
+.Bf-section .underline{
+    margin: 30px 0px 50px;
+}
+
+
+
+
 
 .c-align {
     text-align: left;
@@ -256,7 +254,7 @@ header .navbar-brand img {
     margin: 30px 0px 0px;
     padding: 0;
 }
-
+   
 .Bf-section ul li {
 
     list-style-type: none;
